@@ -101,3 +101,6 @@ ATTENTION! Currently there is no way to select language inside of app, it takes 
 5. Run `ninja -C build`
 6. Install every dependency which compiler asks and return to `5`
 7. Start app with `./build/moonlight`
+
+
+
